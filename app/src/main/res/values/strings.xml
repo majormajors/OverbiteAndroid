@@ -12,7 +12,7 @@
     <string name="done">Done</string>
     <string name="easter_egg">The awesome begins now</string>
     <string name="startup_url">gopher://gopher.floodgap.com/1/mobile</string>
-    <string name="resuming">Resuming ...</string>
+    <string name="resuming">Resuming…</string>
     <string name="enter_url">Enter a Gopher URL</string>
     <string name="enter_url_1">Enter Gopher server or URL</string>
     <string name="enter_url_2">(gopher:// will be added for you.)</string>
@@ -34,16 +34,16 @@
     <string name="search_box_2">Enter parameters for the remote server to process.</string>
     <string name="about_1">A modern open-source mobile client for gopherspace</string>
     <string name="about_long_version">Version 0.2</string>
-    <string name="about_blurb">&lt;b&gt;This version is a testing alpha.&lt;/b&gt; It is not feature-complete!
-    			   Send your comments to &lt;a href="mailto:gopher@floodgap.com"&gt;gopher@floodgap.com&lt;/a&gt;.</string>
+    <string name="about_blurb"><![CDATA[<b>This version is a testing alpha.</b> It is not feature-complete!
+    			   Send your comments to <a href="mailto:gopher@floodgap.com">gopher@floodgap.com</a>.]]></string>
     <string name="all_rights_reserved">All rights reserved</string>
     <string name="bsd_license">Source code released under BSD license.</string>
     <string name="coders">Programming</string>
     <string name="l10ners">Localization</string>
     <string name="visit_overbite">Visit Overbite\'s home page:</string>
     <string name="loader_back_off">BACK cancels</string>
-    <string name="loader_connecting">Connecting ...</string>
-    <string name="loader_waiting">Waiting for reply ...</string>
+    <string name="loader_connecting">Connecting…</string>
+    <string name="loader_waiting">Waiting for reply…</string>
     <string name="loader_canceled">User canceled</string>
     <string name="loader_bufboom">Buffer overflowed!</string>
     <string name="loader_outofmemory_long">Sorry, out of memory. This is currently too big for Overbite to internally convert.</string>
@@ -55,5 +55,5 @@
     <string name="loader_iofail_long">An unknown I/O error has occurred while talking to the remote server. You may be able to reload this resource.</string>
 	<string name="download_started">Starting download</string>
 	<string name="download_service_label">Gopher download</string>
-	<string name="download_service_long">Downloading %s to %s</string>
+	<string name="download_service_long">Downloading %1$s to %2$s</string>
 </resources>
